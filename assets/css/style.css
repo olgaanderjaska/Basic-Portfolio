@@ -139,7 +139,7 @@ input[type="submit"]
 
 
 #footer {
-	
+	bootom:0px;
 	margin: 10px 0px 10px 0px;
 	width: 100%; 
 	background: #666666;
@@ -154,6 +154,7 @@ input[type="submit"]
     margin-top:20px;
     float: right;
     line-height: 50px;
+    position:absolute;
 }
  
 li {
